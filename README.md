@@ -14,7 +14,7 @@ Welcome to my data analyst portfolio! I'm passionate about turning raw data into
 **Type**: Time Series, Financial Analytics, ML  
 **Tools Used**: Python, Pandas, Matplotlib, Scikit-learn  
 **Summary**: Built a time-series forecasting model for Coca-Cola stock using moving averages and volatility indicators. Automated daily data updates and insights.  
-**Code/Notebook**: [https://github.com/Manmeetsinghmarve/Coca-Cola-Stock](#)
+**Code/Notebook**: [[GitHub](https://github.com/Manmeetsinghmarve/Coca-Cola-Stock)](#)
 
 ---
 
